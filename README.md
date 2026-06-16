@@ -1,5 +1,5 @@
-## Hi there 👋
+# Hi, I'm Jonathan De Troye
 
-- :mailbox_with_mail: Get in touch: detroyejr@outlook.com; [Linkedin](https://www.linkedin.com/in/detroyejr/).
-- :office: Currently at [Echelon Insights](https://echeloninsights.com) doing software and data engineering.
-- :speech_balloon: Ask me about my favorite tools: [Nix](https://nixos.org) and [Neovim](https://neovim.org).
+Developer in Northern Virginia with interests in Nix, Linux, and reproducible development environments.
+
+[Email](mailto:detroyejr@outlook.com) | [LinkedIn](https://www.linkedin.com/in/detroyejr/)
